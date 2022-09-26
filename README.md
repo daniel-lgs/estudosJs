@@ -6,3 +6,5 @@ Mini-projeto 1 : Troca o valor de duas variáveis sem usar uma auxiliar.
 Mini-projeto 2 : Função que descobre valor entre dois números.
 
 Mini-projeto 3 : Fizz buzz, implementação popular que consiste em retornar um resultado de acordo com a entrada de um número. Os resultados variam com entradas divisíveis por 3 e por 5, apenas por 3, apenas por 5, não divisíveis nem por 3 nem por 5, e entradas que não são números.
+
+Mini-projeto 4 : Simulação de um radar de velocidade.
