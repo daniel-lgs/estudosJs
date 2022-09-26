@@ -12,3 +12,5 @@ Mini-projeto 4 : Simulação de um radar de velocidade.
 Mini-projeto 5 : Par ou ímpar. Lê um número positivo e de 0 até esse número verifica se os intervalos são pares ou ímpares.
 
 Mini-projeto 6 : Encontre a string. Percorre um objeto, e imprime somente a propriedade que for do tipo string.
+
+Mini-projeto 7 : Lê um número, percorre o intervalo entre 0 e esse número e soma tudo que for múltiplo de 3 ou 5.
