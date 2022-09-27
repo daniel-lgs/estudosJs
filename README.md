@@ -16,3 +16,5 @@ Mini-projeto 6 : Encontre a string. Percorre um objeto, e imprime somente a prop
 Mini-projeto 7 : Lê um número, percorre o intervalo entre 0 e esse número e soma tudo que for múltiplo de 3 ou 5.
 
 Mini-projeto 8 : Imprime a média de todos os números contidos em um array.
+
+Mini-projeto 9 : Lê um número e imprime a mesma quantidade em asteriscos, linha a linha.
