@@ -18,3 +18,5 @@ Mini-projeto 7 : Lê um número, percorre o intervalo entre 0 e esse número e s
 Mini-projeto 8 : Imprime a média de todos os números contidos em um array.
 
 Mini-projeto 9 : Lê um número e imprime a mesma quantidade em asteriscos, linha a linha.
+
+Mini-projeto 10 : Percorre a origem até o final de um número lido e imprime qualquer valor primo. Aceita números negativos.
